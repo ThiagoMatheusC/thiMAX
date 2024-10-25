@@ -18,3 +18,6 @@ section {
     display: flex;
     justify-content: center;
 }
+.camada-texto {
+    margin-right: 20px;
+}
